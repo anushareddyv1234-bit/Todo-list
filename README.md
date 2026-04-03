@@ -18,12 +18,16 @@ Tech Stack
 todo-app/
 
 │── public/
+
 │── src/
-│   ├── components/
-│   ├── App.js
-│   ├── index.js
-│   └── styles.css
+
+│   ├── components/ 
+│   ├── App.js 
+│   ├── index.js 
+│   └── styles.css 
+
 │── package.json
+
 │── README.md
 
  Installation & Setup
