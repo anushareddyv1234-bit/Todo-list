@@ -11,6 +11,8 @@ Tech Stack
   Frontend: React.js
   styling:  CSS
   Version Control: Git & GitHub
+
+  
  📂 Project Structure
 todo-app/
 │── public/
