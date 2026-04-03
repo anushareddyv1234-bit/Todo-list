@@ -16,6 +16,7 @@ Tech Stack
  📂 Project Structure
  
 todo-app/
+
 │── public/
 │── src/
 │   ├── components/
