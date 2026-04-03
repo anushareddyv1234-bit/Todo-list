@@ -22,8 +22,11 @@ todo-app/
 │── src/
 
 │   ├── components/ 
-│   ├── App.js 
+
+│   ├── App.js
+
 │   ├── index.js 
+
 │   └── styles.css 
 
 │── package.json
